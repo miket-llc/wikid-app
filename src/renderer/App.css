@@ -13,7 +13,7 @@ body {
     #7a2c9e 129.35%
   );
   font-family: sans-serif;
-  overflow-y: hidden;
+  overflow-y: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -59,4 +59,8 @@ a:hover {
   justify-content: center;
   align-items: center;
   margin: 20px 0;
+}
+
+img {
+  margin-bottom: 2rem;
 }
